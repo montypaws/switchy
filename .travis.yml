@@ -1,0 +1,13 @@
+dist: trusty
+sudo: false
+
+language: bash
+
+script:
+  - cd /tmp
+  - curl -kL https://github.com/phuslu/gfwlist/raw/master/ci.sh | bash -xe
+
+branches:
+  only:
+    - master
+
