@@ -9,7 +9,8 @@ def main():
     for line in fileinput.input():
         line = line.strip()
         if line.startswith('||'):
-            pats += [line[2:], '*.' + line[2:]]
+            pat = line[2:].split('/')[0]
+            pats += [pat, '*.' + pat]
         elif line.startswith('|http'):
             pats += [line.split('/')[2]]
         elif line.startswith('.'):

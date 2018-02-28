@@ -388,7 +388,6 @@
 *.blackvpn.com
 *.blinkx.com
 *.blip.tv
-*.blip.tv/
 *.blockcn.com
 *.blockless.com
 *.blog.de
@@ -3730,7 +3729,6 @@
 *.wexiaobo.org
 *.wezone.net
 *.wforum.com
-*.wforum.com/
 *.wha.la
 *.whatblocked.com
 *.whatbrowser.org
@@ -4337,7 +4335,7 @@ blackvpn.com
 blewpass.com
 blinkx.com
 blinw.com
-blip.tv/
+blip.tv
 blockcn.com
 blockless.com
 blog.calibre-ebook.com
@@ -7304,7 +7302,7 @@ wetpussygames.com
 wexiaobo.org
 wezhiyong.org
 wezone.net
-wforum.com/
+wforum.com
 whatblocked.com
 whatbrowser.org
 whatsapp.net

@@ -10,8 +10,8 @@ function build() {
 
 	cd gfwlist
 
-	curl https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt >gfwlist.txt
-	cat gfwlist.txt | base64 -d | python parse.py >switchyomega.txt
+	curl https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt | base64 -d >gfwlist.txt
+	cat gfwlist.txt | python parse.py >switchyomega.txt
 }
 
 function release() {
