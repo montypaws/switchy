@@ -9,11 +9,9 @@ function build() {
 	git clone https://${GITHUB_TOKEN}@github.com/phuslu/gfwlist
 
 	cd gfwlist
-	rm -rf gfwlist.orig.txt gfwlist.txt
 
-	curl -LOJ https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
-	cat gfwlist.txt | base64 -d >gfwlist.orig.txt
-	cat gfwlist.orig | python parse.py | base64 >gfwlist.txt
+	curl https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt | \
+	python parse.py >gfwlist.txt
 }
 
 function release() {
