@@ -248,7 +248,6 @@
 *.arethusa.su
 *.arlingtoncemetery.mil
 *.army.mil
-*.arstechnica.com
 *.art4tibet1998.org
 *.asacp.org
 *.asahichinese.com
@@ -519,6 +518,7 @@
 *.casinobellini.com
 *.casinoking.com
 *.casinoriva.com
+*.castbox.fm
 *.catch22.net
 *.catfightpayperview.xxx
 *.catholic.org.hk
@@ -2483,6 +2483,7 @@
 *.onion.city
 *.onlinecha.com
 *.onlineyoutube.com
+*.onlytweets.com
 *.onmypc.biz
 *.onmypc.info
 *.onmypc.net
@@ -2715,6 +2716,7 @@
 *.qhigh.com
 *.qi-gong.me
 *.qiandao.today
+*.qiangyou.org
 *.qidian.ca
 *.qienkuen.org
 *.qiwen.lu
@@ -2908,6 +2910,7 @@
 *.shadowsocks.com
 *.shadowsocks.com.hk
 *.shadowsocks.org
+*.shadowsocks9.com
 *.shambalapost.com
 *.shambhalasun.com
 *.shangfang.org
@@ -3211,6 +3214,7 @@
 *.telegram.org
 *.telegramdownload.com
 *.telegraph.co.uk
+*.telesco.pe
 *.tellme.pw
 *.tenacy.com
 *.tensorflow.org
@@ -4211,7 +4215,6 @@ arena.taipei
 arethusa.su
 arlingtoncemetery.mil
 army.mil
-arstechnica.com
 artofpeacefoundation.org
 artsy.net
 asacp.org
@@ -4462,6 +4465,7 @@ cartoonmovement.com
 casatibet.org.mx
 casino.williamhill.com
 casinobellini.com
+castbox.fm
 catch22.net
 catfightpayperview.xxx
 catholic.org.hk
@@ -6181,6 +6185,7 @@ onedrive.live.com
 onion.city
 online.recoveryversion.org
 onlineyoutube.com
+onlytweets.com
 onmoon.com
 onmoon.net
 onthehunt.com
@@ -6379,6 +6384,7 @@ python.com.tw
 qanote.com
 qi-gong.me
 qiandao.today
+qiangyou.org
 qienkuen.org
 qiwen.lu
 qixianglu.cn
@@ -6541,6 +6547,7 @@ shadow.ma
 shadowsocks-r.com
 shadowsocks.com.hk
 shadowsocks.org
+shadowsocks9.com
 shangfang.org
 shapeservices.com
 share.dmhy.org
@@ -6787,6 +6794,7 @@ telegram.dog
 telegram.me
 telegram.org
 telegraph.co.uk
+telesco.pe
 tensorflow.org
 tenzinpalmo.com
 th.hao123.com
