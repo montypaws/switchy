@@ -536,6 +536,7 @@
 *.ccim.org
 *.cclife.ca
 *.ccthere.com
+*.cctmweb.net
 *.cctongbao.com
 *.ccvoice.ca
 *.ccw.org.tw
@@ -1669,6 +1670,7 @@
 *.huanghuagang.org
 *.huangyiyu.com
 *.huaren.us
+*.huaren4us.com
 *.huashangnews.com
 *.huayuworld.org
 *.hudatoriq.web.id
@@ -3396,6 +3398,7 @@
 *.tubestack.com
 *.tubewolf.com
 *.tuibeitu.net
+*.tuidang.org
 *.tuidang.se
 *.tumblr.com
 *.tumutanzi.com
@@ -3871,6 +3874,7 @@
 *.xtube.com
 *.xuchao.net
 *.xuchao.org
+*.xuehua.us
 *.xvideos.com
 *.xvideos.es
 *.xxbbx.com
@@ -5829,7 +5833,6 @@ lvv2.com
 lyfhk.net
 lzmtnews.org
 m.hkgalden.com
-m.huaren4us.com
 m.me
 m.plixi.com
 m.slandr.net
@@ -7486,6 +7489,7 @@ xskywalker.com
 xtube.com
 xuchao.net
 xuchao.org
+xuehua.us
 xuzhiyong.net
 xvideo.cc
 xvideos.es
