@@ -377,6 +377,7 @@
 *.bit.do
 *.bit.ly
 *.bitcointalk.org
+*.bitmex.com
 *.bitshare.com
 *.bitvise.com
 *.bjnewlife.org
@@ -828,6 +829,7 @@
 *.delcamp.net
 *.demo.opera-mini.net
 *.democrats.org
+*.depositphotos.com
 *.derekhsu.homeip.net
 *.desc.se
 *.design.google
@@ -955,6 +957,7 @@
 *.dzze.com
 *.e-classical.com.tw
 *.e-gold.com
+*.e-hentai.org
 *.e-hentaidb.com
 *.e-traderland.net
 *.e-zone.com.hk
@@ -1264,7 +1267,6 @@
 *.g-area.org
 *.g-queen.com
 *.g.co
-*.g.e-hentai.org
 *.g6hentai.com
 *.gabocorp.com
 *.gaeproxy.com
@@ -1339,6 +1341,7 @@
 *.global.bing.com
 *.globalrescue.net
 *.globaltm.org
+*.globalvoices.org
 *.globalvoicesonline.org
 *.globalvpn.net
 *.glock.com
@@ -1846,6 +1849,7 @@
 *.jandyx.com
 *.janwongphoto.com
 *.japan-whores.com
+*.jav.com
 *.jav101.com
 *.jav2be.com
 *.jav68.tv
@@ -2063,7 +2067,6 @@
 *.lobsangwangyal.com
 *.localdomain.ws
 *.lockestek.com
-*.lofi.e-hentai.org
 *.logiqx.com
 *.londonchinese.ca
 *.longhair.hk
@@ -3242,6 +3245,7 @@
 *.thestandnews.com
 *.thetibetmuseum.org
 *.thetibetpost.com
+*.thetinhat.com
 *.thewgo.org
 *.thinkingtaiwan.com
 *.thinkwithgoogle.com
@@ -3768,6 +3772,7 @@
 *.windscribe.com
 *.wingamestore.com
 *.wingy.site
+*.wire.com
 *.wiredbytes.com
 *.wiredpen.com
 *.wisdompubs.org
@@ -3972,6 +3977,7 @@
 *.zhangtianliang.com
 *.zhanlve.org
 *.zhao.1984.city
+*.zhengjian.org
 *.zhenlibu.info
 *.zhenlibu1984.com
 *.zhinengluyou.com
@@ -4332,6 +4338,7 @@ bipic.net
 bit.do
 bit.ly
 bitcointalk.org
+bitmex.com
 bitshare.com
 bitsnoop.com
 bitvise.com
@@ -4761,6 +4768,7 @@ deja.com
 delcamp.net
 demo.opera-mini.net
 democrats.org
+depositphotos.com
 derekhsu.homeip.net
 desc.se
 design.google
@@ -4859,6 +4867,7 @@ dynawebinc.com
 dynupdate.no-ip.com
 e-classical.com.tw
 e-gold.com
+e-hentai.org
 e-hentaidb.com
 e-info.org.tw
 e-zone.com.hk
@@ -5144,7 +5153,6 @@ fzlm.com
 g-area.org
 g-queen.com
 g.co
-g.e-hentai.org
 g6hentai.com
 gabocorp.com
 galenwu.com
@@ -5210,6 +5218,7 @@ globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
 globalrescue.net
+globalvoices.org
 globalvoicesonline.org
 globalvpn.net
 gloryhole.com
@@ -5807,7 +5816,6 @@ lkcn.net
 localdomain.ws
 localpresshk.com
 lockestek.com
-lofi.e-hentai.org
 logbot.net
 logiqx.com
 longmusic.com
@@ -6825,6 +6833,7 @@ thestandnews.com
 thetibetcenter.org
 thetibetconnection.org
 thetibetpost.com
+thetinhat.com
 thetrotskymovie.com
 thevivekspot.com
 thewgo.org
@@ -7349,6 +7358,7 @@ wingamestore.com
 wingy.site
 winning11.com
 winwhispers.info
+wire.com
 wiredbytes.com
 wiredpen.com
 wisevid.com
@@ -7582,6 +7592,7 @@ zhanlve.org
 zhao.1984.city
 zhao.jinhai.de
 zhenghui.org
+zhengjian.org
 zhengwunet.org
 zhenlibu.info
 zhenlibu1984.com
