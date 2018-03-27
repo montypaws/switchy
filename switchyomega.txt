@@ -1104,6 +1104,7 @@
 *.fan-qiang.com
 *.fangbinxing.com
 *.fangeming.com
+*.fangeqiang.com
 *.fanglizhi.info
 *.fangmincn.org
 *.fangong.org
@@ -1686,6 +1687,9 @@
 *.huluim.com
 *.hung-ya.com
 *.hungerstrikeforaids.org
+*.huobi.com
+*.huobi.pro
+*.huobipro.com
 *.huping.net
 *.hurriyet.com.tr
 *.hut2.ru
@@ -4004,6 +4008,7 @@
 *.zoogvpn.com
 *.zootool.com
 *.zoozle.net
+*.zorrovpn.com
 *.zozotown.com
 *.zpn.im
 *.zspeeder.me
@@ -4084,6 +4089,7 @@
 85st.com
 881903.com
 89-64.org
+89.64.charter.constitutionalism.solutions
 8z1.net
 908taiwan.org
 91porn.com
@@ -5000,6 +5006,7 @@ familyfed.org
 famunion.com
 fangbinxing.com
 fangeming.com
+fangeqiang.com
 fanglizhi.info
 fangmincn.org
 fangong.forums-free.com
@@ -5498,6 +5505,9 @@ hum*.uchicago.edu
 humanrightsbriefing.org
 hung-ya.com
 hungerstrikeforaids.org
+huobi.com
+huobi.pro
+huobipro.com
 huping.net
 hurgokbayrak.com
 hustlercash.com
@@ -7615,6 +7625,7 @@ zonaeuropa.com
 zonghexinwen.com
 zoogvpn.com
 zootool.com
+zorrovpn.com
 zozotown.com
 zpn.im
 zspeeder.me
