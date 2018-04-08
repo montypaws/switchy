@@ -373,10 +373,12 @@
 *.bignews.org
 *.bigsound.org
 *.biliworld.com
+*.binance.com
 *.binux.me
 *.bit.do
 *.bit.ly
 *.bitcointalk.org
+*.bitfinex.com
 *.bitmex.com
 *.bitshare.com
 *.bitvise.com
@@ -817,6 +819,7 @@
 *.ddns.mobi
 *.ddns.ms
 *.ddns.name
+*.ddns.net
 *.ddns.us
 *.de-sci.org
 *.deaftone.com
@@ -1590,6 +1593,7 @@
 *.himalayan-foundation.org
 *.himemix.com
 *.himemix.net
+*.hitbtc.com
 *.hitomi.la
 *.hiwifi.com
 *.hjclub.info
@@ -2058,6 +2062,7 @@
 *.liujianshu.com
 *.liuxiaobo.net
 *.liuxiaotong.com
+*.livecoin.net
 *.livedoor.jp
 *.liveleak.com
 *.livestation.com
@@ -2479,6 +2484,7 @@
 *.oiktv.com
 *.ok.ru
 *.okayfreedom.com
+*.okex.com
 *.olumpo.com
 *.olympicwatch.org
 *.omni7.jp
@@ -3860,6 +3866,7 @@
 *.xiaolan.me
 *.xiaoma.org
 *.xihua.es
+*.xijie.wordpress.com
 *.xing.com
 *.xinmiao.com.hk
 *.xiongpian.com
@@ -3966,6 +3973,7 @@
 *.zaozon.com
 *.zapto.org
 *.zattoo.com
+*.zb.com
 *.zdnet.com.tw
 *.zello.com
 *.zengjinyan.org
@@ -4340,10 +4348,12 @@ bigjapanesesex.com
 bignews.org
 biliworld.com
 billypan.com
+binance.com
 bipic.net
 bit.do
 bit.ly
 bitcointalk.org
+bitfinex.com
 bitmex.com
 bitshare.com
 bitsnoop.com
@@ -4763,7 +4773,6 @@ daxa.cn
 db.tt
 dcard.tw
 dcmilitary.com
-ddns.net
 de-sci.org
 debug.com
 deck.ly
@@ -5401,6 +5410,7 @@ hiitch.com
 hikinggfw.org
 himalayanglacier.com
 himemix.com
+hitbtc.com
 hitomi.la
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
@@ -5816,6 +5826,7 @@ liudejun.com
 liujianshu.com
 liuxiaobo.net
 liuxiaotong.com
+livecoin.net
 liveleak.com
 livestream.com
 livevideo.com
@@ -6190,6 +6201,7 @@ ogate.org
 oizoblog.com
 ok.ru
 okayfreedom.com
+okex.com
 okk.tw
 old-cat.net
 old.honeynet.org
@@ -7482,6 +7494,7 @@ xiaohexie.com
 xiaolan.me
 xiaoma.org
 xiezhua.com
+xijie.wordpress.com
 xing.com
 xinhuanet.org
 xinmiao.com.hk
@@ -7581,6 +7594,7 @@ zalmos.com
 zannel.com
 zaobao.com.sg
 zattoo.com
+zb.com
 zdnet.com.tw
 zello.com
 zenmate.com

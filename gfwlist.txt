@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: HM7tJ2kmu3Z/13SBxvGUXg
+! Checksum: 338bPzTS/SxL9Kx6sYQRPA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Tue, 27 Mar 2018 10:59:00 -0400
+! Last Modified: Sun, 08 Apr 2018 08:49:13 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -237,10 +237,16 @@ share.dmhy.org
 ||s3-ap-southeast-2.amazonaws.com
 
 !---BitCoin---
+||binance.com
+||bitfinex.com
 ||bitmex.com
+||hitbtc.com
 ||huobi.com
 ||huobi.pro
 ||huobipro.com
+||livecoin.net
+||okex.com
+||zb.com
 
 ||agro.hk
 ||apkmirror.com
@@ -1521,6 +1527,7 @@ blinw.com
 ||blog.de
 .blog.jp
 |http://blog.jp
+@@||jpush.cn
 .blogcatalog.com
 ||blogcatalog.com
 ||blogcity.me
@@ -2135,7 +2142,6 @@ cn.dayabook.com
 dcmilitary.com
 .ddc.com.tw
 .ddhw.info
-ddns.net
 ||de-sci.org
 .de-sci.org
 packages.debian.org/zh-cn/lenny/gpass
@@ -4922,6 +4928,7 @@ njuice.com
 nlfreevpn.com
 
 !--no-ip.com#NOIP
+.ddns.net/
 .gooddns.info
 ||gotdns.ch
 .maildns.xyz
@@ -7129,6 +7136,7 @@ worldjournal.com
 ||minghuiyw.wordpress.com
 ||wo3ttt.wordpress.com
 ||sujiatun.wordpress.com
+||xijie.wordpress.com
 ||wp.com
 
 !-||wormsculptor.com
