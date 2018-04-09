@@ -214,6 +214,7 @@
 *.aojiao.org
 *.aolchannels.aol.com
 *.aomiwang.com
+*.apartments.com
 *.apetube.com
 *.api-secure.recaptcha.net
 *.api-verify.recaptcha.net
@@ -523,6 +524,7 @@
 *.casinoriva.com
 *.castbox.fm
 *.catch22.net
+*.catchgod.com
 *.catfightpayperview.xxx
 *.catholic.org.hk
 *.catholic.org.tw
@@ -628,6 +630,7 @@
 *.chinatimes.com
 *.chinatopsex.com
 *.chinatown.com.au
+*.chinaview.wordpress.com
 *.chinaworker.info
 *.chinayuanmin.org
 *.chinese-hermit.net
@@ -3662,6 +3665,7 @@
 *.vpncup.com
 *.vpndada.com
 *.vpnfan.com
+*.vpnfires.biz
 *.vpnforgame.net
 *.vpngate.jp
 *.vpngate.net
@@ -4206,6 +4210,7 @@ aobo.com.au
 aofriend.com
 aolchannels.aol.com
 aomiwang.com
+apartments.com
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
@@ -4494,6 +4499,7 @@ casino.williamhill.com
 casinobellini.com
 castbox.fm
 catch22.net
+catchgod.com
 catfightpayperview.xxx
 catholic.org.hk
 catholic.org.tw
@@ -4589,6 +4595,7 @@ chinasocialdemocraticparty.com
 chinasoul.org
 chinatopsex.com
 chinatweeps.com
+chinaview.wordpress.com
 chinaway.org
 chinaworker.info
 chinayouth.org.hk
