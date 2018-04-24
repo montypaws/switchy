@@ -2,6 +2,7 @@
 *.030buy.com
 *.0rz.tw
 *.1-apple.com.tw
+*.1.1.1.1
 *.10.tt
 *.1000giri.net
 *.100ke.org
@@ -143,6 +144,7 @@
 *.akademiye.org
 *.akiba-online.com
 *.akiba-web.com
+*.akow.org
 *.al-islam.com
 *.al-qimmah.net
 *.alabout.com
@@ -240,6 +242,7 @@
 *.appsto.re
 *.archive.fo
 *.archive.is
+*.archive.li
 *.archive.org
 *.archives.gov
 *.archives.gov.tw
@@ -469,6 +472,7 @@
 *.btku.me
 *.btku.org
 *.btspread.com
+*.btsynckeys.com
 *.budaedu.org
 *.buddhanet.com.tw
 *.buddhistchannel.tv
@@ -662,6 +666,7 @@
 *.cineastentreff.de
 *.cipfg.org
 *.circlethebayfortibet.org
+*.cirosantilli.com
 *.citizencn.com
 *.citizenlab.org
 *.citizenscommission.hk
@@ -708,6 +713,7 @@
 *.code1984.com
 *.codeshare.io
 *.codeskulptor.org
+*.coinegg.com
 *.collateralmurder.com
 *.collateralmurder.org
 *.com.google
@@ -737,6 +743,7 @@
 *.cq99.us
 *.crackle.com
 *.crazys.cc
+*.crazyshit.com
 *.crchina.org
 *.creaders.net
 *.creadersnet.com
@@ -1292,6 +1299,7 @@
 *.gardennetworks.org
 *.gartlive.com
 *.gate-project.com
+*.gate.io
 *.gather.com
 *.gatherproxy.com
 *.gaybubble.com
@@ -1796,6 +1804,7 @@
 *.iownyour.biz
 *.iownyour.org
 *.ipfire.org
+*.ipfs.io
 *.iphone4hongkong.com
 *.iphonehacks.com
 *.iphonetaiwan.org
@@ -2463,8 +2472,6 @@
 *.nvquan.org
 *.nvtongzhisheng.org
 *.nwtca.org
-*.nyaa.eu
-*.nyaa.si
 *.nydus.ca
 *.nyt.com
 *.nytcn.me
@@ -2567,6 +2574,7 @@
 *.partypoker.com
 *.passion.com
 *.passiontimes.hk
+*.paste.ee
 *.pastie.org
 *.pbworks.com
 *.pbxes.com
@@ -2981,6 +2989,7 @@
 *.sinopitt.info
 *.sinoquebec.com
 *.sis001.com
+*.site2unblock.com
 *.site90.net
 *.sitebro.tw
 *.sitekreator.com
@@ -3146,6 +3155,7 @@
 *.superokayama.com
 *.superpages.com
 *.supervpn.net
+*.superzooi.com
 *.suppig.net
 *.suprememastertv.com
 *.surfeasy.com
@@ -3224,6 +3234,7 @@
 *.tcsofbc.org
 *.tcsovi.org
 *.teachparentstech.org
+*.techviz.net
 *.teck.in
 *.teeniefuck.net
 *.telecomspace.com
@@ -3260,6 +3271,7 @@
 *.thetibetpost.com
 *.thetinhat.com
 *.thewgo.org
+*.theync.com
 *.thinkingtaiwan.com
 *.thinkwithgoogle.com
 *.thisav.com
@@ -4037,6 +4049,7 @@
 *2.bahamut.com.tw
 0rz.tw
 1-apple.com.tw
+1.1.1.1
 1000giri.net
 10musume.com
 123rf.com
@@ -4157,6 +4170,7 @@ aiweiweiblog.com
 akademiye.org
 akiba-online.com
 akiba-web.com
+akow.org
 al-qimmah.net
 alabout.com
 alanhou.com
@@ -4235,7 +4249,9 @@ appspot.com
 appsto.re
 ar.hao123.com
 archive.is
+archive.li
 archive.org
+archive.today
 archives.gov
 archives.gov.tw
 arctosia.com
@@ -4630,6 +4646,7 @@ chubun.com
 chuizi.net
 churchinhongkong.org
 circlethebayfortibet.org
+cirosantilli.com
 citizencn.com
 citizenlab.org
 citizenscommission.hk
@@ -4681,6 +4698,7 @@ cochina.co
 cochina.org
 codeshare.io
 codeskulptor.org
+coinegg.com
 collateralmurder.com
 collateralmurder.org
 com.google
@@ -5191,6 +5209,7 @@ gardennetworks.com
 gardennetworks.org
 gartlive.com
 gate-project.com
+gate.io
 gather.com
 gati.org.tw
 gaymap.cc
@@ -5620,6 +5639,7 @@ internetpopculture.com
 investigating.wordpress.com
 inxian.com
 ipalter.com
+ipfs.io
 iphone4hongkong.com
 iphonehacks.com
 iphonetaiwan.org
@@ -6180,7 +6200,6 @@ nvtongzhisheng.org
 ny.stgloballink.com
 ny.visiontimes.com
 nyaa.eu
-nyaa.si
 nylon-angel.com
 nylonstockingsonline.com
 nyt.com
@@ -6274,6 +6293,7 @@ paper.li
 paperb.us
 parkansky.com
 passion.com
+paste.ee
 pastebin.com
 pastie.org
 pbwiki.com
@@ -6759,6 +6779,7 @@ sunporno.com
 superokayama.com
 superpages.com
 supervpn.net
+superzooi.com
 suprememastertv.com
 surfeasy.com
 surfeasy.com.au
@@ -6828,6 +6849,7 @@ tcpspeed.com
 teachparentstech.org
 teamamericany.com
 tech2.in.com
+techviz.net
 teck.in
 teensinasia.com
 telegram.dog
@@ -6866,6 +6888,7 @@ thetinhat.com
 thetrotskymovie.com
 thevivekspot.com
 thewgo.org
+theync.com
 thinkwithgoogle.com
 thisav.com
 thomasbernhard.org
@@ -7532,6 +7555,7 @@ xuchao.org
 xuehua.us
 xuzhiyong.net
 xvideo.cc
+xvideos.com
 xvideos.es
 xxx.com
 xxx.xxx
