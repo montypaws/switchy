@@ -42,7 +42,6 @@
 *.233abc.com
 *.24hrs.ca
 *.25u.com
-*.2dbook.com
 *.2shared.com
 *.2waky.com
 *.3-a.net
@@ -65,7 +64,6 @@
 *.4pu.com
 *.4rbtv.com
 *.4shared.com
-*.4tern.com
 *.51.ca
 *.51jav.org
 *.51luoben.com
@@ -116,11 +114,11 @@
 *.acnw.com.au
 *.activpn.com
 *.aculo.us
+*.adcex.com
 *.addictedtocoffee.de
 *.adelaidebbs.com
 *.admin.recaptcha.net
 *.admob.com
-*.adorama.com
 *.adpl.org.hk
 *.ads-twitter.com
 *.adsense.com
@@ -155,8 +153,8 @@
 *.alforattv.net
 *.alhayat.com
 *.alicejapan.co.jp
-*.alien-ufos.com
 *.alkasir.com
+*.allcoin.com
 *.allconnected.co
 *.alldrawnsex.com
 *.allervpn.com
@@ -304,6 +302,7 @@
 *.backpackers.com.tw
 *.badjojo.com
 *.baidu.jp
+*.baijie.org
 *.bailandaily.com
 *.baixing.me
 *.bakgeekhome.tk
@@ -339,6 +338,7 @@
 *.bcast.co.nz
 *.bcc.com.tw
 *.bcchinese.net
+*.bcex.ca
 *.bcmorning.com
 *.beaconevents.com
 *.bebo.com
@@ -373,6 +373,7 @@
 *.bgvpn.com
 *.bianlei.com
 *.biblesforamerica.org
+*.bibox.com
 *.bic2011.org
 *.big.one
 *.bigjapanesesex.com
@@ -382,10 +383,13 @@
 *.biliworld.com
 *.binance.com
 *.binux.me
+*.bit-z.com
 *.bit.do
 *.bit.ly
 *.bitcointalk.org
+*.bitcoinworld.com
 *.bitfinex.com
+*.bitinka.com.ar
 *.bitmex.com
 *.bitshare.com
 *.bitvise.com
@@ -420,6 +424,7 @@
 *.blogs.tampabay.com
 *.blogspot.hk
 *.blogspot.jp
+*.blogspot.tw
 *.blogtd.org
 *.bloodshed.net
 *.bloomberg.cn
@@ -472,6 +477,8 @@
 *.bt95.com
 *.btaia.com
 *.btbtav.com
+*.btcbank.bank
+*.btctrade.im
 *.btku.me
 *.btku.org
 *.btspread.com
@@ -491,11 +498,13 @@
 *.buzzhand.net
 *.buzzorange.com
 *.bvpn.com
+*.bx.in.th
 *.bx.tl
 *.bynet.co.il
 *.c-est-simple.com
 *.c-spanvideo.org
 *.c100tibet.org
+*.c2cx.com
 *.cablegatesearch.net
 *.cachinese.com
 *.cacnw.com
@@ -581,6 +590,7 @@
 *.centurys.net
 *.certificate-transparency.org
 *.cfhks.org.hk
+*.cfos.de
 *.cftfc.com
 *.cgdepot.org
 *.cgst.edu
@@ -591,6 +601,7 @@
 *.changp.com
 *.changsa.net
 *.channel8news.sg
+*.chaoex.com
 *.chapm25.com
 *.chatnook.com
 *.chaturbate.com
@@ -696,6 +707,7 @@
 *.cms.gov
 *.cmule.com
 *.cmule.org
+*.cmx.im
 *.cn-proxy.com
 *.cn.sandscotaicentral.com
 *.cn.uptodown.com
@@ -716,7 +728,13 @@
 *.code1984.com
 *.codeshare.io
 *.codeskulptor.org
+*.coin2co.in
 *.coinegg.com
+*.coinex.com
+*.coingi.com
+*.coinrail.co.kr
+*.cointobe.com
+*.coinut.com
 *.collateralmurder.com
 *.collateralmurder.org
 *.com.google
@@ -868,6 +886,7 @@
 *.dingchin.com.tw
 *.dipity.com
 *.directcreative.com
+*.discoins.com
 *.discuss.com.hk
 *.discuss4u.com
 *.dish.com
@@ -919,6 +938,7 @@
 *.doujincafe.com
 *.dpp.org.tw
 *.dpr.info
+*.dragonex.io
 *.dragonsprings.org
 *.dreamamateurs.com
 *.drepung.org
@@ -990,6 +1010,7 @@
 *.easypic.com
 *.ebony-beauty.com
 *.ebook.hyread.com.tw
+*.ebtcbank.com
 *.ecfa.org.tw
 *.ecimg.tw
 *.economist.com
@@ -1062,6 +1083,7 @@
 *.esmtp.biz
 *.etaa.org.au
 *.etadult.com
+*.etherdelta.com
 *.etizer.org
 *.etokki.com
 *.etools.ncol.com
@@ -1075,14 +1097,17 @@
 *.evschool.net
 *.exblog.jp
 *.exchristian.hk
+*.exmo.com
 *.exmormon.org
 *.expatshield.com
 *.expecthim.com
 *.expekt.com
 *.exploader.net
 *.expressvpn.com
+*.exrates.me
 *.extmatrix.com
 *.extremetube.com
+*.exx.com
 *.eyevio.jp
 *.eyny.com
 *.ezpc.tk
@@ -1137,6 +1162,7 @@
 *.fastpic.ru
 *.fastssh.com
 *.faststone.org
+*.fatbtc.com
 *.favstar.fm
 *.fawanghuihui.org
 *.fb.com
@@ -1170,6 +1196,7 @@
 *.financetwitter.com
 *.finchvpn.com
 *.findyoutube.com
+*.findyoutube.net
 *.fingerdaily.com
 *.firearmsworld.net
 *.firebaseio.com
@@ -1303,6 +1330,7 @@
 *.gartlive.com
 *.gate-project.com
 *.gate.io
+*.gatecoin.com
 *.gather.com
 *.gatherproxy.com
 *.gaybubble.com
@@ -1346,7 +1374,6 @@
 *.gfw.press
 *.ggpht.com
 *.ggssl.com
-*.ghost.org
 *.ghostpath.com
 *.ghut.org
 *.giantessnight.com
@@ -1894,6 +1921,7 @@
 *.jcpenney.com
 *.jdwsy.com
 *.jetos.com
+*.jex.com
 *.jfqu36.club
 *.jfqu37.xyz
 *.jgoodies.com
@@ -1969,6 +1997,7 @@
 *.kenengba.com
 *.keontech.net
 *.kepard.com
+*.kex.com
 *.keycdn.com
 *.khabdha.org
 *.khatrimaza.org
@@ -2001,7 +2030,9 @@
 *.korenan2.com
 *.ksdl.org
 *.ksnews.com.tw
+*.kspcoin.com
 *.ktzhk.com
+*.kucoin.com
 *.kui.name
 *.kurashsultan.com
 *.kurtmunger.com
@@ -2028,6 +2059,7 @@
 *.lastcombat.com
 *.lastfm.es
 *.latibet.org
+*.lbank.info
 *.le-vpn.com
 *.leafyvpn.net
 *.lecloud.net
@@ -2183,7 +2215,6 @@
 *.megaproxy.com
 *.megarotic.com
 *.megurineluka.com
-*.melon-peach.com
 *.meltoday.com
 *.memehk.com
 *.memri.org
@@ -2435,6 +2466,7 @@
 *.nordstromimage.com
 *.nordstromrack.com
 *.nordvpn.com
+*.notify.dropboxapi.com
 *.nottinghampost.com
 *.novelasia.com
 *.now.im
@@ -2493,6 +2525,7 @@
 *.october-review.org
 *.oculus.com
 *.oculuscdn.com
+*.oex.com
 *.ogaoga.org
 *.ogate.org
 *.oikos.com.tw
@@ -2824,6 +2857,7 @@
 *.rfamobile.org
 *.rferl.org
 *.rfi.fr
+*.rightbtc.com
 *.rigpa.org
 *.rileyguide.com
 *.ritouki.jp
@@ -3241,6 +3275,8 @@
 *.teachparentstech.org
 *.techviz.net
 *.teck.in
+*.teco-hk.org
+*.teco-mo.org
 *.teeniefuck.net
 *.telecomspace.com
 *.telegram.dog
@@ -3383,6 +3419,7 @@
 *.tono-oka.jp
 *.toodoc.com
 *.top.tv
+*.topbtc.com
 *.topnews.in
 *.toppornsites.com
 *.topshareware.com
@@ -3570,6 +3607,7 @@
 *.uni.cc
 *.unification.net
 *.unification.org.tw
+*.unirule.cloud
 *.unitedsocialpress.com
 *.unix100.com
 *.unknownspace.org
@@ -3659,6 +3697,7 @@
 *.vjmedia.com.hk
 *.vllcs.org
 *.vmixcore.com
+*.vmpsoft.com
 *.vnet.link
 *.voacantonese.com
 *.voachinese.com
@@ -3869,6 +3908,7 @@
 *.x24hr.com
 *.xbabe.com
 *.xbookcn.com
+*.xbtce.com
 *.xcafe.in
 *.xcity.jp
 *.xcritic.com
@@ -3950,6 +3990,7 @@
 *.yingsuoss.com
 *.yipub.com
 *.yizhihongxing.com
+*.yobit.net
 *.yobt.com
 *.yobt.tv
 *.yogichen.org
@@ -4082,7 +4123,6 @@
 233abc.com
 24hrs.ca
 24smile.org
-2dbook.com
 2lipstube.com
 30boxes.com
 32red.com
@@ -4093,7 +4133,6 @@
 4everproxy.com
 4rbtv.com
 4shared.com
-4tern.com
 51.ca
 51jav.org
 51luoben.com
@@ -4145,10 +4184,10 @@ actfortibet.org
 actimes.com.au
 activpn.com
 aculo.us
+adcex.com
 addictedtocoffee.de
 admin.recaptcha.net
 admob.com
-adorama.com
 adpl.org.hk
 ads-twitter.com
 adsense.com
@@ -4183,9 +4222,9 @@ alanhou.com
 alasbarricadas.org
 alexlur.org
 alforattv.net
-alien-ufos.com
 aliengu.com
 alkasir.com
+allcoin.com
 allconnected.co
 alldrawnsex.com
 allfinegirls.com
@@ -4346,6 +4385,7 @@ bbs.tuitui.info
 bbsfeed.com
 bbsland.com
 bbtoystore.com
+bcex.ca
 bdsmvideos.net
 bebo.com
 beeg.com
@@ -4371,6 +4411,7 @@ bgvpn.com
 biantailajiao.com
 biantailajiao.in
 biblesforamerica.org
+bibox.com
 big.one
 bigfools.com
 bigjapanesesex.com
@@ -4379,10 +4420,13 @@ biliworld.com
 billypan.com
 binance.com
 bipic.net
+bit-z.com
 bit.do
 bit.ly
 bitcointalk.org
+bitcoinworld.com
 bitfinex.com
+bitinka.com.ar
 bitmex.com
 bitshare.com
 bitsnoop.com
@@ -4482,6 +4526,8 @@ broadpressinc.com
 brucewang.net
 brutaltgp.com
 bt95.com
+btcbank.bank
+btctrade.im
 btdigg.org
 btku.me
 btku.org
@@ -4496,11 +4542,13 @@ busytrade.com
 buzzorange.com
 bvpn.com
 bwsj.hk
+bx.in.th
 bx.tl
 bynet.co.il
 c-est-simple.com
 c-spanvideo.org
 c1522.mooo.com
+c2cx.com
 cablegatesearch.net
 cacnw.com
 cactusvpn.com
@@ -4576,6 +4624,7 @@ ch.shvoong.com
 change.org
 changp.com
 changsa.net
+chaoex.com
 chengmingmag.com
 chenguangcheng.com
 chenpokong.net
@@ -4682,6 +4731,7 @@ cmp.hku.hk
 cms.gov
 cmule.com
 cmule.org
+cmx.im
 cn-proxy.com
 cn.calameo.com
 cn.dayabook.com
@@ -4706,7 +4756,13 @@ cochina.co
 cochina.org
 codeshare.io
 codeskulptor.org
+coin2co.in
 coinegg.com
+coinex.com
+coingi.com
+coinrail.co.kr
+cointobe.com
+coinut.com
 collateralmurder.com
 collateralmurder.org
 com.google
@@ -4838,6 +4894,7 @@ diigo.com
 dilber.se
 dingchin.com.tw
 directcreative.com
+discoins.com
 discuss.com.hk
 dish.com
 disp.cc
@@ -4880,6 +4937,7 @@ download.ithome.com.tw
 dphk.org
 dpp.org.tw
 dpr.info
+dragonex.io
 dragonsprings.org
 drgan.net
 drmingxia.org
@@ -4927,6 +4985,7 @@ eastturkistangovernmentinexile.us
 ebook.hyread.com.tw
 ebookbrowse.com
 ebookee.com
+ebtcbank.com
 ecfa.org.tw
 echofon.com
 ecimg.tw
@@ -4988,6 +5047,7 @@ eromanga-kingdom.com
 eromangadouzin.com
 eromon.net
 etaiwannews.com
+etherdelta.com
 etizer.org
 etokki.com
 etools.ncol.com
@@ -4998,6 +5058,7 @@ evchk.wikia.com
 evschool.net
 exblog.jp
 exchristian.hk
+exmo.com
 exmormon.org
 expatshield.com
 expecthim.com
@@ -5005,7 +5066,9 @@ expekt.com
 experts-univers.com
 exploader.net
 expressvpn.com
+exrates.me
 extmatrix.com
+exx.com
 eyevio.jp
 eyny.com
 fa.gov.tw
@@ -5064,6 +5127,7 @@ fast.wistia.com
 fastpic.ru
 fastssh.com
 faststone.org
+fatbtc.com
 favstar.fm
 fb.com
 fb.me
@@ -5096,6 +5160,7 @@ financetwitter.com
 finchvpn.com
 findmespot.com
 findyoutube.com
+findyoutube.net
 finler.net
 firearmsworld.net
 firebaseio.com
@@ -5218,6 +5283,7 @@ gardennetworks.org
 gartlive.com
 gate-project.com
 gate.io
+gatecoin.com
 gather.com
 gati.org.tw
 gaymap.cc
@@ -5252,7 +5318,6 @@ gfw.org.ua
 gfw.press
 ggpht.com
 ggssl.com
-ghost.org
 ghostpath.com
 ghut.org
 giantessnight.com
@@ -5710,6 +5775,7 @@ jbtalks.com
 jbtalks.my
 jcpenney.com
 jeanyim.com
+jex.com
 jfqu36.club
 jfqu37.xyz
 jgoodies.com
@@ -5770,6 +5836,7 @@ kendatire.com
 kenengba.com
 keontech.net
 kepard.com
+kex.com
 keycdn.com
 khatrimaza.org
 kichiku-doujinko.com
@@ -5794,7 +5861,9 @@ konachan.com
 koolsolutions.com
 koornk.com
 koranmandarin.com
+kspcoin.com
 ktzhk.com
+kucoin.com
 kun.im
 kurtmunger.com
 kusocity.com
@@ -5824,6 +5893,7 @@ larsgeorge.com
 lastcombat.com
 lastfm.es
 latelinenews.com
+lbank.info
 ld.hao123img.com
 le-vpn.com
 leafyvpn.net
@@ -5960,7 +6030,6 @@ megarotic.com
 megavideo.com
 megurineluka.com
 meirixiaochao.com
-melon-peach.com
 meme.yahoo.com
 memehk.com
 memorybbs.com
@@ -6179,6 +6248,7 @@ nordstrom.com
 nordstromimage.com
 nordstromrack.com
 nordvpn.com
+notify.dropboxapi.com
 nottinghampost.com
 novelasia.com
 nownews.com
@@ -6230,6 +6300,7 @@ oclp.hk
 october-review.org
 oculus.com
 oculuscdn.com
+oex.com
 offbeatchina.com
 officeoftibet.com
 ofile.org
@@ -6536,6 +6607,7 @@ rfaweb.org
 rferl.org
 rfi.fr
 rfi.my
+rightbtc.com
 riseup.net
 ritter.vg
 rlwlw.com
@@ -6862,6 +6934,8 @@ teamamericany.com
 tech2.in.com
 techviz.net
 teck.in
+teco-hk.org
+teco-mo.org
 teensinasia.com
 telegram.dog
 telegram.me
@@ -6987,6 +7061,7 @@ tonyyan.net
 toonel.net
 top.tv
 top81.ws
+topbtc.com
 topic.youthwant.com.tw
 toppornsites.com
 topsy.com
@@ -7196,6 +7271,7 @@ uncyclopedia.hk
 uncyclopedia.tw
 underwoodammo.com
 unholyknight.com
+unirule.cloud
 unknownspace.org
 unpo.org
 unseen.is
@@ -7279,6 +7355,7 @@ vivthomas.com
 vllcs.org
 vlog.xuite.net
 vmixcore.com
+vmpsoft.com
 vn.hao123.com
 vnet.link
 voa-11.akacast.akamaistream.net
@@ -7477,6 +7554,7 @@ www.aolnews.com
 www.businessinsider.com.au
 www.citizenlab.org
 www.cmoinc.org
+www.coinexchange.io
 www.cool18.com
 www.dmm.com
 www.dwheeler.com
@@ -7513,6 +7591,7 @@ www.thechinastory.org
 www.wan-press.org
 www.wangruowang.org
 www.websnapr.com
+www.whatsapp.com
 www.zensur.freerk.com
 www2.rocketbbs.com
 x-art.com
@@ -7525,6 +7604,7 @@ xa.yimg.com
 xanga.com
 xbabe.com
 xbookcn.com
+xbtce.com
 xcafe.in
 xcity.jp
 xfinity.com
@@ -7598,6 +7678,7 @@ yhcw.net
 yidio.com
 yilubbs.com
 yipub.com
+yobit.net
 yobt.tv
 yogichen.org
 yong.hu
