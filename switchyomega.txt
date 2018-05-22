@@ -572,6 +572,7 @@
 *.cdn.assets.lfpcontent.com
 *.cdn.helixstudios.net
 *.cdn.printfriendly.com
+*.cdn.seatguru.com
 *.cdn.softlayer.net
 *.cdnews.com.tw
 *.cdninstagram.com
@@ -805,6 +806,7 @@
 *.dadazim.com
 *.dadi360.com
 *.dafoh.org
+*.daftporn.com
 *.dagelijksestandaard.nl
 *.daidostup.ru
 *.dailidaili.com
@@ -1539,6 +1541,7 @@
 *.greenreadings.com
 *.greenvpn.net
 *.greenvpn.org
+*.grotty-monday.com
 *.groups.google.cn
 *.gstatic.com
 *.gtricks.com
@@ -1592,6 +1595,7 @@
 *.hdtvb.net
 *.hdzog.com
 *.heartyit.com
+*.heavy-r.com
 *.hec.su
 *.hecaitou.net
 *.hechaji.com
@@ -2285,6 +2289,7 @@
 *.mofaxiehui.com
 *.mofos.com
 *.mog.com
+*.mohu.ml
 *.mol.gov.tw
 *.mondex.org
 *.money-link.com.tw
@@ -3146,6 +3151,7 @@
 *.stat.gov.tw
 *.static-economist.com
 *.static.comico.tw
+*.static.shemalez.com
 *.staticflickr.com
 *.statueofdemocracy.org
 *.stc.com.sa
@@ -3396,6 +3402,7 @@
 *.timdir.com
 *.time.com
 *.timsah.com
+*.tineye.com
 *.tiny.cc
 *.tinypaste.com
 *.tipo.gov.tw
@@ -3405,6 +3412,9 @@
 *.tmagazine.com
 *.tmdfish.com
 *.tmpp.org
+*.tn1.shemalez.com
+*.tn2.shemalez.com
+*.tn3.shemalez.com
 *.tnaflix.com
 *.tngrnow.com
 *.tngrnow.net
@@ -3466,6 +3476,7 @@
 *.tubecup.com
 *.tubegals.com
 *.tubeislam.com
+*.tubepornclassic.com
 *.tubestack.com
 *.tubewolf.com
 *.tuibeitu.net
@@ -3694,6 +3705,7 @@
 *.vivatube.com
 *.vivthomas.com
 *.vizvaz.com
+*.vjav.com
 *.vjmedia.com.hk
 *.vllcs.org
 *.vmixcore.com
@@ -3793,6 +3805,7 @@
 *.weekmag.info
 *.wefightcensorship.org
 *.wefong.com
+*.wego.here.com
 *.weihuo.org
 *.weiming.info
 *.welovecock.com
@@ -3994,6 +4007,7 @@
 *.yobt.com
 *.yobt.tv
 *.yogichen.org
+*.yolasite.com
 *.yorkbbs.ca
 *.youdontcare.com
 *.youjizz.com
@@ -4599,6 +4613,7 @@ cdn-images.mailchimp.com
 cdn.assets.lfpcontent.com
 cdn.helixstudios.net
 cdn.printfriendly.com
+cdn.seatguru.com
 cdn.softlayer.net
 cdn1.lp.saboom.com
 cdninstagram.com
@@ -4742,6 +4757,7 @@ cn.ibtimes.com
 cn.nytstyle.com
 cn.sandscotaicentral.com
 cn.shafaqna.com
+cn.thegay.com
 cn.uncyclopedia.wikia.com
 cn.uptodown.com
 cn.voa.mobi
@@ -4810,6 +4826,7 @@ culture.tw
 cumlouder.com
 curvefish.com
 cusu.hk
+cw.com.tw
 cyberghost.natado.com
 cyberghostvpn.com
 cynscribe.com
@@ -5430,6 +5447,7 @@ greatzhonghua.org
 greenfieldbookstore.com.hk
 greenpeace.org
 greenvpn.net
+grotty-monday.com
 groups.google.cn
 gs-discuss.com
 gstatic.com
@@ -6095,6 +6113,7 @@ moby.to
 moeaic.gov.tw
 moeerolibrary.com
 mog.com
+mohu.ml
 mol.gov.tw
 molihua.org
 mondex.org
@@ -6825,6 +6844,7 @@ startuplivingchina.com
 stat.gov.tw
 static-economist.com
 static.comico.tw
+static.shemalez.com
 static01.nyt.com
 staticflickr.com
 statueofdemocracy.org
@@ -7040,6 +7060,7 @@ tiltbrush.com
 timdir.com
 time.com
 times.hinet.net
+tineye.com
 tintuc101.com
 tiny.cc
 tinychat.com
@@ -7051,6 +7072,9 @@ tma.co.jp
 tmagazine.com
 tmi.me
 tmpp.org
+tn1.shemalez.com
+tn2.shemalez.com
+tn3.shemalez.com
 tnaflix.com
 tnp.org
 to-porno.com
@@ -7107,6 +7131,7 @@ tu8964.com
 tube8.com
 tube911.com
 tubeislam.com
+tubepornclassic.com
 tubewolf.com
 tui.orzdream.com
 tuidang.net
@@ -7352,6 +7377,7 @@ visibletweets.com
 viu.com
 viu.tv
 vivthomas.com
+vjav.com
 vllcs.org
 vlog.xuite.net
 vmixcore.com
@@ -7444,6 +7470,7 @@ website.informer.com
 webwarper.net
 webworkerdaily.com
 wefightcensorship.org
+wego.here.com
 weiboleak.com
 weiboscope.jmsc.hku.hk
 weijingsheng.org
