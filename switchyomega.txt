@@ -1339,6 +1339,7 @@
 *.gaycn.net
 *.gayhub.com
 *.gaymap.cc
+*.gaymenring.com
 *.gaytube.com
 *.gaywatch.com
 *.gazotube.com
@@ -1701,6 +1702,7 @@
 *.hotvpn.com
 *.hougaige.com
 *.howtoforge.com
+*.hoxx.com
 *.hpa.gov.tw
 *.hqcdp.org
 *.hqjapanesesex.com
@@ -2286,6 +2288,7 @@
 *.mobypicture.com
 *.moeaic.gov.tw
 *.moeerolibrary.com
+*.mofa.gov.tw
 *.mofaxiehui.com
 *.mofos.com
 *.mog.com
@@ -2922,6 +2925,7 @@
 *.say2.info
 *.sbme.me
 *.sbs.com.au
+*.scache.vzw.com
 *.scasino.com
 *.schema.org
 *.sciencenets.com
@@ -3133,6 +3137,7 @@
 *.srocket.us
 *.ss-link.com
 *.ss.levyhsu.com
+*.ss7.vzw.com
 *.ssglobal.co
 *.ssglobal.me
 *.ssh91.com
@@ -3187,6 +3192,7 @@
 *.sugumiru18.com
 *.suissl.com
 *.sujiatun.wordpress.com
+*.sukebei.nyaa.si
 *.sulian.me
 *.sumrando.com
 *.sunmedia.ca
@@ -4361,6 +4367,7 @@ backchina.com
 backtotiananmen.com
 badoo.com
 baidu.jp
+baijie.org
 bailandaily.com
 baixing.me
 bakgeekhome.tk
@@ -5481,6 +5488,7 @@ hacg.li
 hacg.me
 hacg.red
 hackthatphone.net
+hahaxixi.github.io
 hahlo.com
 hakkatv.org.tw
 haoel.github.io
@@ -5599,6 +5607,7 @@ hotspotshield.com
 hotvpn.com
 hougaige.com
 howtoforge.com
+hoxx.com
 hpa.gov.tw
 hqcdp.org
 hqjapanesesex.com
@@ -6112,6 +6121,7 @@ mobileways.de
 moby.to
 moeaic.gov.tw
 moeerolibrary.com
+mofa.gov.tw
 mog.com
 mohu.ml
 mol.gov.tw
@@ -6675,6 +6685,7 @@ savetibetstore.org
 savevid.com
 say2.info
 sbme.me
+scache.vzw.com
 schema.org
 scramble.io
 scribd.com
@@ -6828,6 +6839,7 @@ ss*.4sqi.net
 ss-link.com
 ss.carryzhou.com
 ss.levyhsu.com
+ss7.vzw.com
 ssglobal.co
 ssh91.com
 ssl.webpack.de
@@ -6873,6 +6885,7 @@ sugarsync.com
 sugumiru18.com
 suissl.com
 sujiatun.wordpress.com
+sukebei.nyaa.si
 sulian.me
 summify.com
 sumrando.com

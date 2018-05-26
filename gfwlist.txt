@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: rjefrluqmHEX5h0sr8cTTQ
+! Checksum: butUxFMHHOTvEkeLGA4wtw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 21 May 2018 23:28:38 -0400
+! Last Modified: Sat, 26 May 2018 01:32:46 -0400
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -257,6 +257,7 @@ share.dmhy.org
 ||dictionary.goo.ne.jp
 ||go.nesnode.com
 ||nikkei.com
+||sukebei.nyaa.si
 ||paste.ee
 ||my.pcloud.com
 ||picacomic.com
@@ -274,6 +275,8 @@ share.dmhy.org
 ||tubepornclassic.com
 ||unseen.is
 ||cn.uptodown.com
+||scache.vzw.com
+||ss7.vzw.com
 ||wire.com
 ||xm.com
 ||xuehua.us
@@ -1318,6 +1321,7 @@ cn.nytstyle.com
 ||itaiwan.gov.tw
 ||mjib.gov.tw
 ||moeaic.gov.tw
+||mofa.gov.tw
 ||mol.gov.tw
 ||mvdis.gov.tw
 ||nat.gov.tw
@@ -1874,6 +1878,7 @@ badoo.com
 |http://*2.bahamut.com.tw
 ||baidu.jp
 .baijie.org
+|http://baijie.org
 ||bailandaily.com
 ||baixing.me
 ||bakgeekhome.tk
@@ -3303,6 +3308,7 @@ gati.org.tw
 .gaycn.net
 .gayhub.com
 ||gaymap.cc
+.gaymenring.com
 .gaytube.com
 !--||gaytube.com
 ||images-gaytube.com
@@ -3373,6 +3379,8 @@ gigporno.ru
 github.com/getlantern
 |https://gist.github.com
 http://cthlo.github.io/hktv
+hahaxixi.github.io
+|https://hahaxixi.github.io
 ||haoel.github.io
 !--|http://onionhacker.github.io
 ||sodatea.github.io
@@ -3961,6 +3969,7 @@ hotpot.hk
 ||hotvpn.com
 ||hougaige.com
 ||howtoforge.com
+||hoxx.com
 .hqcdp.org
 ||hqcdp.org
 ||hqjapanesesex.com
