@@ -239,6 +239,7 @@
 *.appsocks.net
 *.appspot.com
 *.appsto.re
+*.aptoide.com
 *.archive.fo
 *.archive.is
 *.archive.li
@@ -383,6 +384,7 @@
 *.biliworld.com
 *.binance.com
 *.binux.me
+*.bird.so
 *.bit-z.com
 *.bit.do
 *.bit.ly
@@ -881,6 +883,7 @@
 *.dhcp.biz
 *.diaoyuislands.org
 *.dictionary.goo.ne.jp
+*.difangwenge.org
 *.digisfera.com
 *.digitalnomadsproject.org
 *.diigo.com
@@ -1218,6 +1221,7 @@
 *.flitto.com
 *.flnet.org
 *.flog.tw
+*.flyvpn.com
 *.fochk.org
 *.focustaiwan.tw
 *.focusvpn.com
@@ -1367,6 +1371,7 @@
 *.getjetso.com
 *.getlantern.org
 *.getmdl.io
+*.getoutline.org
 *.getsocialscope.com
 *.getsync.com
 *.gettrials.com
@@ -2585,6 +2590,7 @@
 *.otzo.com
 *.ourdearamy.com
 *.ourhobby.com
+*.oursteps.com.au
 *.oursweb.net
 *.ourtv.hk
 *.overplay.net
@@ -2603,13 +2609,11 @@
 *.palacemoon.com
 *.paldengyal.com
 *.paltalk.com
-*.panacom.co.jp
 *.pandapow.co
 *.pandapow.net
 *.pandavpn-jp.com
 *.pandora.com
 *.pandora.tv
-*.pangci.net
 *.panluan.net
 *.panoramio.com
 *.pao-pao.net
@@ -3022,6 +3026,7 @@
 *.sierrafriendsoftibet.org
 *.sijihuisuo.club
 *.sijihuisuo.com
+*.sikaozhe1997.github.io
 *.silkbook.com
 *.simbolostwitter.com
 *.simplecd.org
@@ -3301,7 +3306,9 @@
 *.tenacy.com
 *.tensorflow.org
 *.tenzinpalmo.com
+*.terminus2049.github.io
 *.tew.org
+*.textnow.me
 *.thaicn.com
 *.thb.gov.tw
 *.theatrum-belli.com
@@ -3610,6 +3617,7 @@
 *.uhrp.org
 *.uighur.nl
 *.ukliferadio.co.uk
+*.uku.im
 *.ulike.net
 *.ulop.net
 *.ultravpn.fr
@@ -4312,6 +4320,7 @@ appshopper.com
 appsocks.net
 appspot.com
 appsto.re
+aptoide.com
 ar.hao123.com
 archive.is
 archive.li
@@ -4421,7 +4430,6 @@ berlintwitterwall.com
 bestforchina.org
 bestvpn.com
 bet365.com
-beta.usejump.com
 betternet.co
 bettervpn.com
 bettween.com
@@ -4441,6 +4449,7 @@ biliworld.com
 billypan.com
 binance.com
 bipic.net
+bird.so
 bit-z.com
 bit.do
 bit.ly
@@ -5202,6 +5211,7 @@ flipboard.com
 flipkart.com
 flitto.com
 flog.tw
+flyvpn.com
 fochk.org
 focustaiwan.tw
 fofg.org
@@ -5333,6 +5343,7 @@ geti2p.net
 getiton.com
 getlantern.org
 getmdl.io
+getoutline.org
 getsync.com
 gettyimages.com
 getuploader.com
@@ -5698,6 +5709,7 @@ igoogle.com
 igvita.com
 ihakka.net
 iicns.com
+iipdigital.usembassy.gov
 illusionfactory.com
 ilove80.be
 ilovelongtoes.com
@@ -6392,11 +6404,9 @@ page.bid.yahoo.com
 page2rss.com
 pagodabox.com
 paljorpublications.com
-panacom.co.jp
 panamapapers.sueddeutsche.de
 pandapow.co
 pandora.com
-pangci.net
 panluan.net
 panoramio.com
 pao-pao.net
@@ -6745,6 +6755,7 @@ showbiz.omy.sg
 shutterstock.com
 shwchurch3.com
 sidelinesnews.com
+sikaozhe1997.github.io
 simbolostwitter.com
 simplecd.org
 simpleproductivityblog.com
@@ -6977,6 +6988,8 @@ telegraph.co.uk
 telesco.pe
 tensorflow.org
 tenzinpalmo.com
+terminus2049.github.io
+textnow.me
 th.hao123.com
 thb.gov.tw
 theatrum-belli.com
@@ -7297,6 +7310,7 @@ uighur.nl
 uighurbiz.net
 ukcdp.co.uk
 ukliferadio.co.uk
+uku.im
 ulop.net
 ultravpn.fr
 ultraxs.com
