@@ -1349,6 +1349,7 @@
 *.gazotube.com
 *.gcc.org.hk
 *.gclooney.com
+*.gcmasia.com
 *.gcpnews.com
 *.gcr.io
 *.gdbt.net
@@ -1996,6 +1997,7 @@
 *.karmapa-teachings.org
 *.karmapa.org
 *.kawaiikawaii.jp
+*.kawase.com
 *.kb.monitorware.com
 *.kba-tx.org
 *.kcoolonline.com
@@ -3289,6 +3291,7 @@
 *.tcpspeed.com
 *.tcsofbc.org
 *.tcsovi.org
+*.tdm.com.mo
 *.teachparentstech.org
 *.techviz.net
 *.teck.in
@@ -5325,6 +5328,7 @@ gaywatch.com
 gazotube.com
 gcc.org.hk
 gclooney.com
+gcmasia.com
 gcpnews.com
 gcr.io
 gdzf.org
@@ -5869,6 +5873,7 @@ kanzhongguo.eu
 karayou.com
 karkhung.com
 kawaiikawaii.jp
+kawase.com
 kb.monitorware.com
 kebrum.com
 kendatire.com
